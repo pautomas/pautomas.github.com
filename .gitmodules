@@ -1,0 +1,4 @@
+[submodule "share-builder"]
+	path = share-builder
+	url = https://github.com/pautomas/share-builder
+	branch = master
